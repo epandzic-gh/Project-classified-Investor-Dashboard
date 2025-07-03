@@ -1,6 +1,6 @@
 # Project-classified-Investor-Dashboard
 
-![image](https://github.com/user-attachments/assets/9a895843-cb19-444c-bf50-a2b41fff5475)
+![image](https://github.com/user-attachments/assets/e628813d-10ce-43d5-817a-e1a318b9f28d)
 
 Project [classified] provides a clean, intuitive interface that delivers key economic indicators at a glance.
 
