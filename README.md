@@ -6,7 +6,7 @@ Project [classified] provides a clean, intuitive interface that delivers key eco
 
 Designed for investors who need quick, reliable data, the dashboard enables you to monitor these critical metrics and make informed decisions based on the most up-to-date economic trends. Whether you're evaluating market conditions or adjusting your investment strategy, this dashboard offers the essential insights to guide your next steps.
 
-## 1 Extract Data
+## 1 Extract the Data
 
 Sources to find the data are as follows:
 
@@ -26,9 +26,9 @@ The source data extracted, of course, comes organized in a manner which will not
 
 Databases and SQL to query the data are used to clean and organize the data due to the ability to query larger sums of data. So far, the CPI for urban consumers csv file totals approximately 16,000 rows of data. 
 
-![image](https://github.com/user-attachments/assets/1c4e7473-b815-4a0b-bad9-2ba2a781e791)
-
 To work with databases, DBeaver was used as most of the menial tasks like importing a spreadsheet onto a table are done through the UI. This makes the process of importing and exporting spreadsheets much more streamlined and faster. The SQL language used is PostgreSQL.
+
+![image](https://github.com/user-attachments/assets/1c4e7473-b815-4a0b-bad9-2ba2a781e791)
 
 ![image](https://github.com/user-attachments/assets/bc8dd862-32d9-48f9-8c93-ca4332da5616)
 
@@ -46,7 +46,7 @@ Creating tables is a crucial aspect when setting up a database as they are objec
 
 ![image](https://github.com/user-attachments/assets/935613c6-8409-4659-a394-6aaa63f7938b)
 
-## 4 Clean/Transform the Data
+## 4 Transform the Data
 
 Next, the tables of data across the schema will be cleaned to make them uniform. 
 
